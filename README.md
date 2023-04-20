@@ -24,4 +24,8 @@ A data structure is a storage that is used to store and organize ,arranging ,acc
        
        > It is because in reality there is no Which data structure is both write fast ,read fast ,search fast ,etc... so ,duties of a good programmer is to choose to use appropriately, making the program fast and lightweight.
   2. ) You will also be able to solve problems more quickly by using " BigO " to tell that algorithm is faster ?
+       > **What is BigO Notation ? :** 
+       
+       > Big O notation is one of the most fundamental tools for computer scientists to analyze the cost of an algorithm by using the mathematical relationship of " Operation (is code execution time) " and " Elements (is size of input) ".
+       > ![Logo](https://biercoff.com/content/images/2016/07/Screenshot-2016-07-15-16-16-10.png)
 ### ⚡️ Usage Examples :
