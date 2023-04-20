@@ -12,7 +12,7 @@
 - Doubly LinkedList
 
 ## What is Data Structure ?
-A data structure is a storage that is used to store and organize ,arranging ,accessed and updated data.
+A data structure is a storage that is used to store ,organize(insert/update/delete) ,arranging(sorting) ,accessed(searching) and updated data.
 ### ⚡️ Examples of data structures that can be seen in the real world :
 > [ Array ]--[ Linked List ]--[ Stack ]--[ Queue ]--[ Binary Tree ]--[ Binary Search Tree ]--[ Heap ]--[ Hashing ]--[ Graph ] and more . . .
 
