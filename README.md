@@ -4,11 +4,13 @@
 ### [1.&nbsp;) &nbsp;&nbsp;Introduction](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
  - &nbsp; Data Structure คืออะไร ? 
  - &nbsp; ทำไมต้องเรียนวิชา Data Structure ?
- - &nbsp; วิชา Data Structure เรียนอะไรบ้าง ?
+ - &nbsp; วิชา Data Structure เรียนอะไรบ้าง เพราะอะไร ?
  - &nbsp; BigO คืออะไร ?
  - &nbsp; ทำไมต้องวิเคราะห์อัลกิริทึม (Algorithm Analysis) ?
+ - &nbsp; ทำไมต้องใช้ Big-O วิเคราะห์อัลกิริทึม (Algorithm Analysis) ทำไมไม่เขียนโปรแกรมจับเวลาทำงานเอา ?
  - &nbsp; How to Algorithm Analysis
- - &nbsp; Time Complexity และ Space Complexity คืออะไร ?
+ - &nbsp; Dynamic Data Structure คืออะไร ?
+ - &nbsp; Dynamic Programming คืออะไร ?
 <br/>
 
 ### [2.&nbsp;) &nbsp;&nbsp;Array](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
