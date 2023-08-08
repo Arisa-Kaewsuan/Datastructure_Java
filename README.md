@@ -1,5 +1,10 @@
 
 # Data Structure with Java 🚀
+
+## CONTENTS
+
+<br/>
+
 ## 💬 What is Data Structure ?
 A data structure is a storage that is used to store ,organize (insert / update/ delete) ,arranging (sorting) ,accessed (searching) and updated data.
 ### ⚡️ Examples of data structures that can be seen in the real world :
