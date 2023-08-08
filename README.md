@@ -24,7 +24,7 @@
      >- Quick Sort
  <br/>
 
-### [3.&nbsp;) &nbsp;&nbsp;Recursive](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+### [3.&nbsp;) &nbsp;&nbsp;Recursive](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Recursive.md)
  - &nbsp; Recursive คืออะไร เรียนไปทำไม ?
  - &nbsp; เราควรใช้ loop ตอนไหน และตอนไหนควรใช้ Recursive ?
  - &nbsp; Exerxise 1 &nbsp;:&nbsp; Fibonacci
