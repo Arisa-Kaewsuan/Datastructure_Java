@@ -13,7 +13,7 @@
  - &nbsp; Dynamic Programming คืออะไร ?
 <br/>
 
-### [2.&nbsp;) &nbsp;&nbsp;Array](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+### [2.&nbsp;) &nbsp;&nbsp;Array](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
  - &nbsp; Array คืออะไร ?
  - &nbsp; PROBLEM 1 &nbsp;:&nbsp; Maximum Subsequence Sum
  - &nbsp; PROBLEM 2 &nbsp;:&nbsp; Sorting Array
