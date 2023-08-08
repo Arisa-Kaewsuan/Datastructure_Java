@@ -22,13 +22,22 @@
 - &nbsp; Exercise 1 &nbsp;:&nbsp; [Maximum Subsequence Sum](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/Maximum_Subsequencesum/src/myMSS)
 
           จงเขียนโปรแกรมหา Maximum  Subsequence  Sum
-            -  ให้เขียน 3 แบบ : brute-force (mss1)    พยายามลดloop เหลือ 2loop (mss2)    พยายามลดloop เหลือ 1loop (mss3)
+            -  โดยให้เขียน 3 แบบ : brute-force (mss1)  >>  พยายามลดloop เหลือ 2loop (mss2)  >>  พยายามลดloop เหลือ 1loop (mss3)
                แล้ววิเคราะห์หา BigO ของทั้ง 3 แบบ หาคำตอบว่า Algorithm ไหนมีประสิทธิภาพดีที่สุด เพราะอะไร ?
-  
+
+            -  เขียนฟังก์ชั่นจับเวลาของแต่ละ Algorithm ด้วย เพื่อใช้ดูเปรียบเทียบกับ Big-O ที่วิเคราะห์ได้
+               Hint : ในภาษา java ใช้ currentTimemill() จับเวลาตอนเริ่ม และ ตอนทำเสร็จ เอามาลบกัน ได้เวลาที่ใช้ทั้งหมด
+
+            -  Maximum Subsequence Sum คือ  ผลรวมของเลขที่อยู่ติดกัน ที่มีค่ามากที่สุด
+
           :: Test Case ::
-          input  :
-          output  :
-  > เฉลย Exercise 1  :  Algorithm mss3 มีประสิทธิภาพมากที่สุด
+          input  :  มี array [-2, 11, -6, 16, -5, 7]
+          output  : Maximum Subsequence Sum คือ 23 มาจาก [11, -6, 16, -5, 7]
+                    = 11 + (-6) + 16 + (-5) + 7
+                    = 23
+
+  
+  > เฉลย Exercise 1  :  Algorithm mss3 มีประสิทธิภาพมากที่สุด  จะเห็นว่าการเขียนโปรแกรมแบบซ้อนลูป ยิ้งว้อนมาก ประสิทธิภาพยิ่งแย่ ควรเลี่ยง!
     >- mss1 : Big-O(n^3)
     >- mss2 : Big-O(n^2)
     >- mss3 : Big-O(n)
