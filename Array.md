@@ -37,19 +37,39 @@
                     = 23
 
   
-  > เฉลย Exercise 1  :  Algorithm mss3 มีประสิทธิภาพมากที่สุด  จะเห็นว่าการเขียนโปรแกรมแบบซ้อนลูป ยิ้งว้อนมาก ประสิทธิภาพยิ่งแย่ ควรเลี่ยง!
+  > เฉลย Exercise 1  :  Algorithm mss3 มีประสิทธิภาพมากที่สุด  จะเห็นว่าการเขียนโปรแกรมแบบซ้อนลูป ยิ่งซ้อนมาก ประสิทธิภาพยิ่งแย่ ควรเลี่ยง!
     >- mss1 : Big-O(n^3)
     >- mss2 : Big-O(n^2)
     >- mss3 : Big-O(n)
   <br/>
   
 - &nbsp; Exercise 2 &nbsp;:&nbsp; Sorting Array
-     >- Bubble Sort
-     >- Selection Sort
-     >- Insertion Sort
-     >- Merge Sort
-     >- Quick Sort
 
+          จงเขียนโปรแกรมเรียง  Array (Sorting)
+            -  โดยให้เขียน 5 แบบ แล้ววิเคราะห์หา BigO ของทั้ง 5 แบบ หาคำตอบว่า Algorithm ไหนมีประสิทธิภาพดีที่สุด เพราะอะไร ?
+               เขียนฟังก์ชั่นจับเวลาของแต่ละ Algorithm ด้วย เพื่อใช้ดูเปรียบเทียบกับ Big-O ที่วิเคราะห์ได้
+                1.)  Bubble Sort  :  brute-froce
+                2.)  Selection Sort  :  ลดการสลับ
+                3.)  Insertion Sort  :  มีตัวที่เรียงอยู่แล้ว ไม่จำเป็นต้องวนลูปจนสุด เพื่อเช็คให้ครบ
+                4.)  Merge Sort  :  ใช้ Devine & Conquer
+                5.)  Quick Sort  :  เป็น Algorithm ที่นิมยมใช้ในปัจจุบัน
+
+            :: Test Case ::
+            input  :  มี array [5, -2, 23, 7, 87, -42, 509]
+            output  : เมื่อเรียงจะได้  [-42, -2, 5, 7, 23, 87, 509]
+
+            -  ในภาษา java คำสั่ง Sort คือ :  int[] arr = { 5, -2, 23, 7, 87, -42, 509 };
+                                            Arrays.sort(arr);
+  
+  > เฉลย Exercise 2  :  Algorithm Quick Sort มีประสิทธิภาพมากที่สุด  จะเห็นว่า loop เท่ากัน แต่โปรแกรมสามารถเร็วขึ้นได้ ถ้าเราลดการ
+    ทำงานซ้ำ  เพิ่มความฉลาดให้มัน
+    >- Bubble Sort : Big-O(n^2)
+    >- Selection Sort : Big-O(n^2)
+    >- Insertion Sort : Big-O(n^2)
+    >- Merge Sort : Big-O(n log n)
+    >- Quick Sort :  Big-O(n log n)
+  
+  
 <br/><br/><br/>
 
 [<  &nbsp;Contents](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/README.md)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Recursive&nbsp;  >](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
