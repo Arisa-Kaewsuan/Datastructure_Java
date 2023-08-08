@@ -43,7 +43,7 @@
     >- mss3 : Big-O(n)
   <br/>
   
-- &nbsp; Exercise 2 &nbsp;:&nbsp; Sorting Array
+- &nbsp; Exercise 2 &nbsp;:&nbsp; [Sorting Array](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/Sorting/src/Sorting)
 
           จงเขียนโปรแกรมเรียง  Array (Sorting)
             -  โดยให้เขียน 5 แบบ แล้ววิเคราะห์หา BigO ของทั้ง 5 แบบ หาคำตอบว่า Algorithm ไหนมีประสิทธิภาพดีที่สุด เพราะอะไร ?
