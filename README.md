@@ -1,83 +1,86 @@
 
 # Data Structure with Java 🚀
 
+### [1.&nbsp;) &nbsp;&nbsp;Introduction](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+ - &nbsp; Data Structure คืออะไร ? 
+ - &nbsp; ทำไมต้องเรียนวิชา Data Structure ?
+ - &nbsp; วิชา Data Structure เรียนอะไรบ้าง ?
+ - &nbsp; BigO คืออะไร ?
+ - &nbsp; ทำไมต้องวิเคราะห์อัลกิริทึม (Algorithm Analysis) ?
+ - &nbsp; How to Algorithm Analysis
+ - &nbsp; Time Complexity และ Space Complexity คืออะไร ?
+<br/>
 
-## Contents
-1.)  [Introduction](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+### [2.&nbsp;) &nbsp;&nbsp;Array](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+ - &nbsp; Array คืออะไร ?
+ - &nbsp; PROBLEM 1 &nbsp;:&nbsp; Maximum Subsequence Sum
+ - &nbsp; PROBLEM 2 &nbsp;:&nbsp; Sorting Array
+     >- Bubble Sort
+     >- Selection Sort
+     >- Insertion Sort
+     >- Merge Sort
+     >- Quick Sort
+ <br/>
 
-        - Data Structure คืออะไร ? - เราจะได้รู้ว่าจะวิเคราะห์ประสิทธิภาพของโค้ดยังไง แล้วจะปรับปรุงโค้ดยังไง ปรับ Algorithm หรือ ปรับ Data Structure
-        - ทำไมต้องเรียนวิชา Data Structure ?
-        - วิชา Data Structure เรียนอะไรบ้าง ?
-        - BigO คืออะไร ?
-        - ทำไมต้องวิเคราะห์อัลกิริทึม (Algorithm Analysis) ?
-        - How to Algorithm Analysis
-        - Time Complexity และ Space Complexity คืออะไร ?
+### [3.&nbsp;) &nbsp;&nbsp;Recursive](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+ - &nbsp; Recursive คืออะไร เรียนไปทำไม ?
+ - &nbsp; เราควรใช้ loop ตอนไหน และตอนไหนควรใช้ Recursive ?
+ - &nbsp; PROBLEM 1 &nbsp;:&nbsp; Fibonacci
+ - &nbsp; PROBLEM 2 &nbsp;:&nbsp; Factorial
+ - &nbsp; PROBLEM 3 &nbsp;:&nbsp; Golden Ratio
+ - &nbsp; PROBLEM 4 &nbsp;:&nbsp; Hanoi Tower
+ <br/>
 
-    2.) Array
-        - Array คืออะไร ?
-        - PROBLEM 1 : Maximum Subsequence Sum
-        - PROBLEM 2 : Sorting Array 
-            2.1) Bubble Sort
-            2.2) Selection Sort
-            2.3) Insertion Sort
-            2.4) Merge Sort
-            2.5) Quick Sort
+### [4.&nbsp;) &nbsp;&nbsp;List Data Structure](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+ - &nbsp; Data Structure แบบ List คืออะไร มีอะไรบ้าง ?
+ - &nbsp; ArrayList
+     >- ArrayList คืออะไร ?
+     >- PROBLEM 1 &nbsp;:&nbsp; ArrayList
+     >- PROBLEM 2 &nbsp;:&nbsp; Particle
 
-    3.) Recursive
-        - Recursive คืออะไร เรียนไปทำไม ?
-        - เราควรใช้ loop ตอนไหน และตอนไหนควรใช้ Recursive ?
-        - PROBLEM 1 : Fibonacci
-        - PROBLEM 2 : Factorial
-        - PROBLEM 3 : Golden Ratio
-        - PROBLEM 4 : Hanoi Tower
+ - &nbsp; Linked List 
+     >- Linked List คืออะไร ดีกว่า ArrayList ยังไง มีกี่แบบ ?
+     >- PROBLEM 3 &nbsp;:&nbsp; Linked List
+     >- PROBLEM 4 &nbsp;:&nbsp; Doubly Linked List
 
-    4.) List Data Structure
-        - Data Structure แบบ List คืออะไร มีอะไรบ้าง ?
+ - &nbsp; Stack 
+     >- Stack คืออะไร ดีกว่า Linked List ยังไง ?
+     >- PROBLEM 5 &nbsp;:&nbsp; postfix calculator
+     >- PROBLEM 6 &nbsp;:&nbsp; check parenthesis
 
-        :: ArrayList ::
-            - ArrayList คืออะไร ?
-            - PROBLEM 1 : ArrayList
-            - PROBLEM 2 : Particle
+ - &nbsp; Queue 
+     >- Queue คืออะไร มีกี่แบบ อะไรบ้าง  อธิบายconceptของQueue ?
+     >- Queue กับ piority Queue ต่างกันยังไง ?
+     >- PROBLEM 7 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Queue โดยใช้ Array
+     >- PROBLEM 8 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Maze 
+     >- PROBLEM 9 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Queue โดยใช้ Linked List
+  <br/>
 
-        :: Linked List ::
-            - Linked List คืออะไร ดีกว่า ArrayList ยังไง มีกี่แบบ ?
-            - PROBLEM 3 : Linked List
-            - PROBLEM 4 : Doubly Linked List
+### [5.&nbsp;) &nbsp;&nbsp;Binary Search Tree](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+ - &nbsp; มาทำความเข้าใจ  Tree / Binary Tree / Binary Search Tree กันก่อนว่าคืออะไร ? 
+ - &nbsp; PROBLEM 1 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Tree
+ - &nbsp; PROBLEM 2 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Tree มีฟังก์ชั่น Tree Traversal
+ - &nbsp; PROBLEM 3 &nbsp;:&nbsp; AVL Tree
+ <br/>
 
-        :: Stack ::
-            - Stack คืออะไร ดีกว่า Linked List ยังไง ?
-            - PROBLEM 5 : postfix calculator
-            - PROBLEM 6 : check parenthesis
+### [6.&nbsp;) &nbsp;&nbsp;Heap](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+ - &nbsp; Heap คืออะไร ?
+ - &nbsp; PROBLEM 1 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง maxHeap
+ <br/>
 
-        :: Queue ::
-            - Queue คืออะไร มีกี่แบบ อะไรบ้าง  อธิบายconceptของQueue ?
-            - Queue กับ piority Queue ต่างกันยังไง ?
-            - PROBLEM 7 : เขียนโปรแกรมสร้าง Queue โดยใช้ Array
-            - PROBLEM 8 : เขียนโปรแกรมสร้าง Maze 
-            - PROBLEM 9 : เขียนโปรแกรมสร้าง Queue โดยใช้ Linked List
+ ### [7.&nbsp;) &nbsp;&nbsp;Hash](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+ - &nbsp; Hash map คืออะไร ?
+ - &nbsp; Hash function คืออะไร ?
+ - &nbsp; Hash Table คืออะไร ?
+ - &nbsp; ยกตัวอย่าง Hash &nbsp;:&nbsp; SHA / MD5
+ - &nbsp; การแก้การชนมีกี่แบบ ?
+ - &nbsp; PROBLEM 1 &nbsp;:&nbsp; birthdayParadox
+ - &nbsp; PROBLEM 2 &nbsp;:&nbsp; marriedSelection
+ <br/>
 
-    5.) Binary Search Tree
-        - มาทำความเข้าใจ  Tree / Binary Tree / Binary Search Tree กันก่อนว่าคืออะไร ? 
-        - PROBLEM 1 : เขียนโปรแกรมสร้าง Tree
-        - PROBLEM 2 : เขียนโปรแกรมสร้าง Tree มีฟังก์ชั่น Tree Traversal
-        - PROBLEM 3 : AVL Tree
-
-    6.) Heap
-        - Heap คืออะไร ?
-        - PROBLEM 1 : เขียนโปรแกรมสร้าง maxHeap
-
-    7.) Hash
-        - Hash map คืออะไร ?
-        - Hash function คืออะไร ?
-        - Hash Table คืออะไร ?
-        - ยกตัวอย่าง Hash : SHA / MD5
-        - การแก้การชนมีกี่แบบ ?
-        - PROBLEM 1 : birthdayParadox
-        - PROBLEM 2 : marriedSelection
-    
-    8.) Graph
-        - Graph คืออะไร ?
-        - PROBLEM 1 : เขียนโปรแกรมสร้าง Graph ด้วยวิธี Adjacent List
-        - PROBLEM 2 : เขียนโปรแกรมสร้าง Graph ด้วยวิธี Adjacent Matrix
+ ### [8.&nbsp;) &nbsp;&nbsp;Graph](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
+ - &nbsp; Graph คืออะไร ?
+ - &nbsp; PROBLEM 1 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Graph ด้วยวิธี Adjacent List
+ - &nbsp; PROBLEM 2 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Graph ด้วยวิธี Adjacent Matrix
 
 
