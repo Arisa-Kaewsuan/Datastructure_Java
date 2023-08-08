@@ -1,16 +1,5 @@
 
-# Data Structure in Java 🚀
-**:: EXERCISE ::**
-- Maximum Subsequence 
-- Sorting : Bubble Sort / Selection Sort / Insertion Sort / Merge Sort / Quick Sort
-- Fibonacci : recursive
-- Golden Ratio
-- Hanoi Tower
-- ArrayList
-- Particle
-- LinkedList
-- Doubly LinkedList
-
+# Data Structure with Java 🚀
 ## 💬 What is Data Structure ?
 A data structure is a storage that is used to store ,organize (insert / update/ delete) ,arranging (sorting) ,accessed (searching) and updated data.
 ### ⚡️ Examples of data structures that can be seen in the real world :
