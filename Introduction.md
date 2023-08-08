@@ -38,18 +38,19 @@
       แต่ในทางวิศวกรรม การออกแบบอะไรสักอย่างนึง เราต้องคำนึงถึง worst case เสมอ ดังนั้นในการออกแบบ Algorithm ก็เช่นกัน เราจะสนใจแค่ Big-O
 
           Big-O Notation  :  จากรูปด้านล่าง (Big-O Complexity Chart) จะเห็นว่า...
-          1.  O(1) : คือ ฟังก์ชั่นค่าคงที่ (constant) ที่หมายความว่า ไม่ว่า input จะเพิ่มขึ้นเท่าไหร่ ก็ใช้เวลาทำงานเท่าเดิม ถือว่าเป็น Algorithm ที่เร็วมาก
+          1.  O(1) : คือ ฟังก์ชั่นค่าคงที่ (constant) ที่หมายความว่า ไม่ว่า input จะเพิ่มขึ้นเท่าไหร่ ก็ใช้เวลาทำงานเท่าเดิม ถือว่าเป็น Algorithm
+              ที่เร็วมาก
   
           2.  O(log n) : คือ ฟังก์ชั่นลด (logarithmic) เป็นการทำงานที่จะลดจำนวนลูปลงครึ่งนึงทุกครั้งที่ทำเสร็จไป 1 รอบ ถือว่าเป็น Algorithm ที่เร็ว
               ตัวอย่างอัลกอริทึมที่เป็น O(log n) เช่น Binary Search Tree เพราะใช้โครงสร้างต้นไม้
   
           3.  O(n log n) : คือ ฟังก์ชั่น linearithmic มีความเร็วระดับกลางๆ ตัวอย่างอัลกอริทึมที่เป็น O(n log n) เช่น Merge Sort
   
-          4.  O(n^2) : คือ ฟังก์ชั่น quadratic BigO ชนิดนี้ใช้เวลาในการทำงานเลยระดับที่เรียกว่ากลางๆ จนเริ่มเข้าขั้นแย่แล้ว เพราะว่าเวลาในในการทำงานจะ
-              เพิ่มขึ้น 4 เท่า เมื่อข้อมูลเพิ่มขึ้น 2 เท่า
+          4.  O(n^2) : คือ ฟังก์ชั่น quadratic BigO ชนิดนี้ใช้เวลาในการทำงานเลยระดับที่เรียกว่ากลางๆ จนเริ่มเข้าขั้นแย่แล้ว เพราะว่าเวลาในในการ
+              ทำงานจะเพิ่มขึ้น 4 เท่า เมื่อข้อมูลเพิ่มขึ้น 2 เท่า
   
-          5.  O(2^n) : คือ ฟังก์ชั่น exponential BigO ขั้นนี้เข้าขั้นวิกฤตแล้ว ข้อมูลเพียงแค่นิดเดียวก็มีการทำงานที่มหาศาล  ตัวอย่างอัลกอริทึมที่เป็น O(n^2)
-              เช่น fibonacci recursion
+          5.  O(2^n) : คือ ฟังก์ชั่น exponential BigO ขั้นนี้เข้าขั้นวิกฤตแล้ว ข้อมูลเพียงแค่นิดเดียวก็มีการทำงานที่มหาศาล  ตัวอย่างอัลกอริทึมที่เป็น
+              O(2^n) เช่น fibonacci recursion
   
           6.  O(n!) : คือ ฟังก์ชั่น factorial เป็น BigO ที่เลงร้ายที่สุด ตัวอย่างอัลกอริทึมที่เป็น O(n!) เช่น factorial
   
@@ -94,4 +95,4 @@
 
 
 
-[<  back : contents](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/README.md)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [next : Array  >](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
+[<  &nbsp;Contents](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/README.md)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Array&nbsp;  >](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
