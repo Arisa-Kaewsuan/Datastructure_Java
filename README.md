@@ -8,7 +8,7 @@
  - &nbsp; BigO คืออะไร ?
  - &nbsp; ทำไมต้องวิเคราะห์อัลกิริทึม (Algorithm Analysis) ?
  - &nbsp; ทำไมต้องใช้ Big-O วิเคราะห์อัลกิริทึม (Algorithm Analysis) ทำไมไม่เขียนโปรแกรมจับเวลาทำงานเอา ?
- - &nbsp; How to Algorithm Analysis
+ - &nbsp; How to Algorithm Analysis ?
  - &nbsp; Dynamic Data Structure คืออะไร ?
  - &nbsp; Dynamic Programming คืออะไร ?
 <br/>
