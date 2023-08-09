@@ -91,7 +91,7 @@
          output : 3628800
    <br/>
    
- - &nbsp; Exerxise 3 &nbsp;:&nbsp; [Golden Ratio]() ----- [[ Golden Ratio คืออะไร ? ]](https://krishdp.medium.com/golden-ratio-%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD-%E0%B8%AA%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%AB%E0%B8%A2%E0%B8%AD-994fde7da56a) 🔗
+ - &nbsp; Exerxise 3 &nbsp;:&nbsp; [Golden Ratio](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/Golden_Ratio/src) ----- [[ Golden Ratio คืออะไร ? ]](https://krishdp.medium.com/golden-ratio-%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD-%E0%B8%AA%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%AB%E0%B8%A2%E0%B8%AD-994fde7da56a) 🔗
 
                อัตราส่วนทองคำ (golden ratio) คือ เลขสองจำนวน (a , b : a < b) จะเป็นอัตราส่วนทองคำถ้า (a + b) / a
         มีค่าเข้าใกล้เลข 1.6180339887
