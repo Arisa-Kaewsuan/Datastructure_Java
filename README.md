@@ -17,18 +17,7 @@
  - &nbsp; Dynamic Programming คืออะไร ?
 <br/>
 
-### [2.&nbsp;) &nbsp;&nbsp;Array 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
- - &nbsp; Array คืออะไร ?
- - &nbsp; Exerxise 1 &nbsp;:&nbsp; Maximum Subsequence Sum
- - &nbsp; Exerxise 2 &nbsp;:&nbsp; Sorting Array
-     >- Bubble Sort
-     >- Selection Sort
-     >- Insertion Sort
-     >- Merge Sort
-     >- Quick Sort
- <br/>
-
-### [3.&nbsp;) &nbsp;&nbsp;Recursive 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Recursive.md)
+### [2.&nbsp;) &nbsp;&nbsp;Recursive 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Recursive.md)
  - &nbsp; Recursive คืออะไร เรียนไปทำไม ?
  - &nbsp; เราควรใช้ loop ตอนไหน และตอนไหนควรใช้ Recursive ?
  - &nbsp; Exerxise 1 &nbsp;:&nbsp; Fibonacci
@@ -38,28 +27,43 @@
  <br/>
 
 ### [4.&nbsp;) &nbsp;&nbsp;Linear Lists Data Structure 🔗](http://blog.bru.ac.th/wp-content/uploads/bp-attachments/70550/1_Intro_revised.pdf)
- - &nbsp; Data Structure แบบ Linear Lists คืออะไร มีอะไรบ้าง ?
- - &nbsp; ArrayList
-     >- ArrayList คืออะไร ?
-     >- Exerxise 1 &nbsp;:&nbsp; ArrayList
-     >- Exerxise 2 &nbsp;:&nbsp; Particle
+ - &nbsp; เราสามารถแยกโครงสร้างข้อมูล (Data Structure) ได้เป็น 2 ประเภทใหญ่ๆ คือ
 
- - &nbsp; Linked List 
-     >- Linked List คืออะไร ดีกว่า ArrayList ยังไง มีกี่แบบ ?
-     >- Exerxise 3 &nbsp;:&nbsp; Linked List
-     >- Exerxise 4 &nbsp;:&nbsp; Doubly Linked List
+       1.  Linear Lists &nbsp;:&nbsp; ข้อมูลมีความสัมพันธ์เรียงต่อเนื่องกัน  ได้แก่  Array , ArrayList , Linked List , Stack , Queue
+   
+       2.  Non-Linear Lists &nbsp;:&nbsp; ข้อมูลไม่มีความสัมพันธ์แบบเรียงต่อเนื่องกัน  ได้แก่  Tree , Graph
 
- - &nbsp; Stack 
-     >- Stack คืออะไร ดีกว่า Linked List ยังไง ?
-     >- Exerxise 5 &nbsp;:&nbsp; postfix calculator
-     >- Exerxise 6 &nbsp;:&nbsp; check parenthesis
+     ### [4.1 &nbsp;&nbsp; Array 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
+      - &nbsp; Array คืออะไร ?
+      - &nbsp; Exerxise 1 &nbsp;:&nbsp; Maximum Subsequence Sum
+      - &nbsp; Exerxise 2 &nbsp;:&nbsp; Sorting Array
+           - Bubble Sort
+           - Selection Sort
+           - Insertion Sort
+           - Merge Sort
+           - Quick Sort
 
- - &nbsp; Queue 
-     >- Queue คืออะไร มีกี่แบบ อะไรบ้าง  อธิบายconceptของQueue ?
-     >- Queue กับ piority Queue ต่างกันยังไง ?
-     >- Exerxise 7 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Queue โดยใช้ Array
-     >- Exerxise 8 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Maze 
-     >- Exerxise 9 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Queue โดยใช้ Linked List
+     ### [4.2 &nbsp;&nbsp; ArrayList 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
+      - &nbsp; ArrayList คืออะไร ?
+      - &nbsp; Exerxise 1 &nbsp;:&nbsp; ArrayList
+      - &nbsp; Exerxise 2 &nbsp;:&nbsp; Particle
+
+     ### [4.3 &nbsp;&nbsp; Linked List 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
+      - &nbsp; Linked List คืออะไร ดีกว่า ArrayList ยังไง มีกี่แบบ ?
+      - &nbsp; Exerxise 3 &nbsp;:&nbsp; Linked List
+      - &nbsp; Exerxise 4 &nbsp;:&nbsp; Doubly Linked List
+
+     ### [4.4 &nbsp;&nbsp; Stack 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
+      - &nbsp; Stack คืออะไร ดีกว่า Linked List ยังไง ?
+      - &nbsp; Exerxise 5 &nbsp;:&nbsp; postfix calculator
+      - &nbsp; Exerxise 6 &nbsp;:&nbsp; check parenthesis
+
+     ### [4.5 &nbsp;&nbsp; Queue 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
+      - &nbsp; Queue คืออะไร มีกี่แบบ อะไรบ้าง  อธิบายconceptของQueue ?
+      - &nbsp; Queue กับ piority Queue ต่างกันยังไง ?
+      - &nbsp; Exerxise 7 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Queue โดยใช้ Array
+      - &nbsp; Exerxise 8 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Maze 
+      - &nbsp; Exerxise 9 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Queue โดยใช้ Linked List
   <br/>
 
 ### [5.&nbsp;) &nbsp;&nbsp;Binary Search Tree](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
