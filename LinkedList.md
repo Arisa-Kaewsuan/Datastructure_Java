@@ -1,5 +1,7 @@
 # LINKED LIST
   - &nbsp; [Linked List 🔗](https://expert-programming-tutor.com/tutorial/data_structure/03_%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%20(Linked%20List).php) คืออะไร (idea concept) ดีกว่า ArrayList ยังไง มีกี่แบบ ?
+    - [Linked List Insertion](https://www.youtube.com/shorts/HWr5NXDsAHM) ⚡️
+    - [Doubly Linked List](https://youtube.com/shorts/wsnxm9RJws8?feature=share) ⚡️
 
         Linked List ดีกว่า ArrayList ตรงที่
           - Linked List ไม่ได้เก็บข้อมูลในหน่วยความจำติดกัน จึงสามมารถเพิ่มข้อมูลได้โดยไม่ต้องระบุ index เหมือน Array / ArrayList
@@ -14,6 +16,12 @@
           -  Singly Linked List
           -  Doubly Linked List : เป็น Linked List ปัจจุบันที่ใช้กัน  พัฒนามาจาก Singly Linked List 
     
+    <br/>
+
+  - &nbsp; Linked List ประยุกต์ใช้ทำอะไรได้บ้าง ?
+
+        L
+
     <br/>
     
   - &nbsp; Exerxise 1 &nbsp;:&nbsp; [Singly Linked List 🔗]()
