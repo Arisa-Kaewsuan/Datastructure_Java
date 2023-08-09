@@ -48,7 +48,7 @@
       - &nbsp; Exerxise 1 &nbsp;:&nbsp; ArrayList
       - &nbsp; Exerxise 2 &nbsp;:&nbsp; Particle
 
-     ### [4.3 &nbsp;&nbsp; Linked List](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
+     ### [4.3 &nbsp;&nbsp; Linked List 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/LinkedList.md)
       - &nbsp; Linked List คืออะไร ดีกว่า ArrayList ยังไง มีกี่แบบ ?
       - &nbsp; Exerxise 1 &nbsp;:&nbsp; Linked List
       - &nbsp; Exerxise 2 &nbsp;:&nbsp; Doubly Linked List
