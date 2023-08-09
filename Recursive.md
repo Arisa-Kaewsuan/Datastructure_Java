@@ -76,7 +76,7 @@
          output : 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, …
    <br/>
    
- - &nbsp; Exerxise 2 &nbsp;:&nbsp; [Factorial](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/Fibonacci/src)
+ - &nbsp; Exerxise 2 &nbsp;:&nbsp; [Factorial](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Factorial.java)
 
                 แฟกทอเรียล (Factorial) ของจำนวนเต็มบวก n คือ ผลคูณของจำนวนเต็มบวกตั้งแต่ 1 ถึง n เขียนแทนด้วย n!  ตัวอย่างเช่น 5! อ่านว่า
        "Factorial 5" แปลว่า ผลคูณของจำนวนเต็มบวกตั้งแต่ 1-5 : 5*4*3*2*1 = 120  Factorial มีไว้ใช้ในการแก้โจทย์เกี่ยวกับการจัดเรียง
