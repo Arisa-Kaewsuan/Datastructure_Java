@@ -37,11 +37,11 @@
       - &nbsp; Array คืออะไร ?
       - &nbsp; Exerxise 1 &nbsp;:&nbsp; Maximum Subsequence Sum
       - &nbsp; Exerxise 2 &nbsp;:&nbsp; Sorting Array
-           - Bubble Sort
-           - Selection Sort
-           - Insertion Sort
-           - Merge Sort
-           - Quick Sort
+           - [Bubble Sort 🔗](https://youtube.com/shorts/swqh0Nt84kc?feature=share)
+           - [Selection Sort 🔗](https://youtube.com/shorts/gga_Y8ZrJCk?feature=share)
+           - [Insertion Sort 🔗](https://youtube.com/shorts/W8x-df6vryw?feature=share)
+           - [Merge Sort 🔗](https://youtube.com/shorts/dZhFmu19N9U?feature=share)
+           - [Quick Sort 🔗](https://youtube.com/shorts/gptBZml12lU?feature=share)
 
      ### [4.2 &nbsp;&nbsp; ArrayList](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
       - &nbsp; ArrayList คืออะไร ?
