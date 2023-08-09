@@ -50,6 +50,7 @@
 
      ### [4.3 &nbsp;&nbsp; Linked List 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/LinkedList.md)
       - &nbsp; Linked List คืออะไร ดีกว่า ArrayList ยังไง มีกี่แบบ ?
+      - &nbsp; Linked List ประยุกต์ใช้ทำอะไรได้บ้าง ?
       - &nbsp; Exerxise 1 &nbsp;:&nbsp; Linked List
       - &nbsp; Exerxise 2 &nbsp;:&nbsp; Doubly Linked List
 
