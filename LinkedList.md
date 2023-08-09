@@ -18,7 +18,7 @@
           -  คุณสมบัติ Object OOP ทำให้ไม่ต้องจองพื้นที่ อยากจะ add ข้อมูลตอนไหน ก็ create Node เอา ใส่ข้อมูลลงโหนด แล้วลิ้งค์ไป
         โหนดถัดไป
 
-
+![Linkedlist](https://github.com/Arisa-Kaewsuan/Datastructure_Java/assets/87797742/5c7161ff-1a6e-4c7c-8f44-a1a8df096e2e)
 
         Linked List มีหลายแบบที่ถูกคิดค้นสร้างขึ้นใช้ในแต่ละสายงาน แต่มีตัวที่เป็นพื้นฐานควรรู้จัก อยู่ 2 ตัว คือ
           -  Singly Linked List
