@@ -1,7 +1,7 @@
 
 # Data Structure with Java 🚀
 
-[**🔗 วิธี add Project จาก Eclipse ขึ้น Github**](https://www.youtube.com/watch?v=LPT7v69guVY)
+[**🔗 วิธี add Project จาก Eclipse ขึ้น Github**](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Usegit.md)
 
 # Data  Structure  Contents
 
