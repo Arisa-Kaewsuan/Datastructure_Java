@@ -50,20 +50,20 @@
 
      ### [4.3 &nbsp;&nbsp; Linked List 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
       - &nbsp; Linked List คืออะไร ดีกว่า ArrayList ยังไง มีกี่แบบ ?
-      - &nbsp; Exerxise 3 &nbsp;:&nbsp; Linked List
-      - &nbsp; Exerxise 4 &nbsp;:&nbsp; Doubly Linked List
+      - &nbsp; Exerxise 1 &nbsp;:&nbsp; Linked List
+      - &nbsp; Exerxise 2 &nbsp;:&nbsp; Doubly Linked List
 
      ### [4.4 &nbsp;&nbsp; Stack 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
       - &nbsp; Stack คืออะไร ดีกว่า Linked List ยังไง ?
-      - &nbsp; Exerxise 5 &nbsp;:&nbsp; postfix calculator
-      - &nbsp; Exerxise 6 &nbsp;:&nbsp; check parenthesis
+      - &nbsp; Exerxise 1 &nbsp;:&nbsp; postfix calculator
+      - &nbsp; Exerxise 2 &nbsp;:&nbsp; check parenthesis
 
      ### [4.5 &nbsp;&nbsp; Queue 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Array.md)
       - &nbsp; Queue คืออะไร มีกี่แบบ อะไรบ้าง  อธิบายconceptของQueue ?
       - &nbsp; Queue กับ piority Queue ต่างกันยังไง ?
-      - &nbsp; Exerxise 7 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Queue โดยใช้ Array
-      - &nbsp; Exerxise 8 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Maze 
-      - &nbsp; Exerxise 9 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Queue โดยใช้ Linked List
+      - &nbsp; Exerxise 1 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Queue โดยใช้ Array
+      - &nbsp; Exerxise 2 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Maze 
+      - &nbsp; Exerxise 3 &nbsp;:&nbsp; เขียนโปรแกรมสร้าง Queue โดยใช้ Linked List
   <br/>
 
 ### [5.&nbsp;) &nbsp;&nbsp;Binary Search Tree](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
