@@ -105,9 +105,13 @@
          output : เลขจะเข้าใกล้ 1.6180339887
    <br/>
    
- - &nbsp; Exerxise 4 &nbsp;:&nbsp; Hanoi Tower
+ - &nbsp; Exerxise 4 &nbsp;:&nbsp; [Hanoi Tower](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/Hanoi_Tower/src) ----- [[ ดูการเล่น Hanoi Tower ]](https://www.mathplayground.com/logic_tower_of_hanoi.html) 🔗
    
-         L
+        Exercise 4 : จงเขียนโปรแกรมโชว์การเล่น Hanoi Tower
+
+        :: Test Case ::
+         input : -- ข้อนี้ไม่มี input --
+         output : 
    
    <br/><br/><br/>
 
