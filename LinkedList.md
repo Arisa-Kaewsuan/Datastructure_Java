@@ -54,7 +54,7 @@
 
     <br/>
     
-  - &nbsp; Exerxise 2 &nbsp;:&nbsp; [Doubly Linked List 🔗]()
+  - &nbsp; Exerxise 2 &nbsp;:&nbsp; [Doubly Linked List 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/DoublyLinkedList/src)
 
         Exercise 2 : จงเขียนโปรแกรมสร้าง Doubly Linked List ด้วยภาษา java ด้วยภาษา java โดยมี function ต่างๆดังนี้
           -  addFirst()  
