@@ -37,8 +37,8 @@
  - &nbsp; Exerxise 4 &nbsp;:&nbsp; Hanoi Tower
  <br/>
 
-### [4.&nbsp;) &nbsp;&nbsp;List Data Structure](https://github.com/Arisa-Kaewsuan/Datastructure_Java/blob/main/Introduction.md)
- - &nbsp; Data Structure แบบ List คืออะไร มีอะไรบ้าง ?
+### [4.&nbsp;) &nbsp;&nbsp;Linear Lists Data Structure 🔗](http://blog.bru.ac.th/wp-content/uploads/bp-attachments/70550/1_Intro_revised.pdf)
+ - &nbsp; Data Structure แบบ Linear Lists คืออะไร มีอะไรบ้าง ?
  - &nbsp; ArrayList
      >- ArrayList คืออะไร ?
      >- Exerxise 1 &nbsp;:&nbsp; ArrayList
