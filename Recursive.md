@@ -111,7 +111,8 @@
 
         :: Test Case ::
          input : -- ข้อนี้ไม่มี input --
-         output : 
+         output :
+   ![1](https://github.com/Arisa-Kaewsuan/Datastructure_Java/assets/87797742/31ba6484-a785-47de-8fff-c570f048177c)
    
    <br/><br/><br/>
 
