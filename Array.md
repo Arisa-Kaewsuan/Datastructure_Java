@@ -19,7 +19,7 @@
   <br/>
 
   
-- &nbsp; Exercise 1 &nbsp;:&nbsp; [Maximum Subsequence Sum](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/Maximum_Subsequencesum/src/myMSS)
+- &nbsp; Exercise 1 &nbsp;:&nbsp; [Maximum Subsequence Sum 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/Maximum_Subsequencesum/src/myMSS)
 
           จงเขียนโปรแกรมหา Maximum  Subsequence  Sum
             -  โดยให้เขียน 3 แบบ : brute-force (mss1)  >>  พยายามลดloop เหลือ 2loop (mss2)  >>  พยายามลดloop เหลือ 1loop (mss3)
@@ -43,7 +43,7 @@
     >- mss3 : Big-O(n)
   <br/>
   
-- &nbsp; Exercise 2 &nbsp;:&nbsp; [Sorting Array](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/Sorting/src/Sorting)
+- &nbsp; Exercise 2 &nbsp;:&nbsp; [Sorting Array 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/Sorting/src/Sorting)
 
           จงเขียนโปรแกรมเรียง  Array (Sorting)
             -  โดยให้เขียน 5 แบบ แล้ววิเคราะห์หา BigO ของทั้ง 5 แบบ หาคำตอบว่า Algorithm ไหนมีประสิทธิภาพดีที่สุด เพราะอะไร ?
