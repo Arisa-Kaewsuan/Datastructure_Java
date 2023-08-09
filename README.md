@@ -23,7 +23,7 @@
           มือต่างๆที่ใช้ในการพัฒนาโปรแกรมด้วยภาษานั้นๆ  เช่น
              -   Runtime/ Compiler/ Interpreter  :  คือตัวแปลภาษาโปรแกรม เช่น java , C++ , ... เป็นภาษาเครื่อง (machine code
                  1,0) ที่คอมพิวเตอร์เข้าใจ  ในแต่ละภาษาก็จะมีชื่อเรียกต่างกันไป  เช่น  ใน java เรียก jdk (java development kit) เราต้อง
-                 install โปรแกรมนี้ลงเครื่องเราก่อน Eclipse ถึงจะสามารถแปลภาษา java นี้ได้ run ดูผลลัพธ์ได้  
+                 install jdk ลงเครื่องเราก่อน Eclipse ถึงจะสามารถแปลภาษา java นี้ได้ run ดูผลลัพธ์ได้
    
              -   Editor : ใช้เขียน code แก้ไข/edit code มันจะมีฟีเจอร์พวก Debuger ใช้ debug code ดู error ได้ / มี code snippet
                  หรือบางครั้งก็เรียก syntax auto complete คือ รวมชุดคำสั่งที่ใช้บ่อยๆเอาไว้ให้นักพัฒนาพิมพ์ย่อๆได้มันจะ auto complete
