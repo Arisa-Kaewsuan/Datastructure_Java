@@ -43,7 +43,7 @@
 
     <br/>
     
-  - &nbsp; Exerxise 1 &nbsp;:&nbsp; [Singly Linked List 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/LinkedList/src)
+  - &nbsp; Exerxise 1 &nbsp;:&nbsp; [Singly Linked List 🔗](https://github.com/Arisa-Kaewsuan/Datastructure_Java/tree/main/DoublyLinkedList/src)
 
         Exercise 1 : จงเขียนโปรแกรมสร้าง Singly Linked List ด้วยภาษา java แบบมี Dummy Node โดยมี function ต่างๆดังนี้
           -  addFirst()  
